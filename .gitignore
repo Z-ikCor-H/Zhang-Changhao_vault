@@ -1,0 +1,10 @@
+# Obsidian workspace (本地窗口状态，不需要同步)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+
+# Claude Code
+.claude/
+.claudian/
+
+# 大文件 / 版权文件
+*.pdf
