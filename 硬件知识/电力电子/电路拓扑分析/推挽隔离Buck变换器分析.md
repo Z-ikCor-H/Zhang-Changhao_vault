@@ -569,14 +569,14 @@ $$R_{ESR} \leq \frac{60\text{mV}}{5.0\text{A}} \approx 12\text{m}\Omega$$
 
 ## 参考公式汇总
 
-| 参数 | 公式 |
-|------|------|
-| 电压传输比 | $V = 2nDV_g$ |
-| 有效占空比 | $D_{eff} = 2D$ ，范围 $0 < D_{eff} < 1$ |
-| MOS 耐压 | $V_{DSS} \geq 2V_{g,max} \times 1.5$ |
-| 二极管 PIV | $V_{RRM} \geq 2nV_{g,max} \times 1.5$ |
-| 变压器匝比 | $n = \dfrac{V}{2D_{max}V_{g,min}}$ |
-| 输出电感 | $L = \dfrac{V(1-2D_{min})}{2f_s \Delta i_L}$ |
-| 输出电容 | $C \geq \dfrac{\Delta i_L}{8f_s \Delta V}$ |
-| 磁通摆幅（单方向）| $\Delta B = \dfrac{V_g DT_s}{N_p A_e}$ |
-| CCM 条件 | $L > \dfrac{V(1-2D)}{2f_s \cdot 2I_{O,min}}$ |
+| 参数        | 公式                                           |
+| --------- | -------------------------------------------- |
+| 电压传输比     | $V = 2nDV_g$                                 |
+| 有效占空比     | $D_{eff} = 2D$ ，范围 $0 < D_{eff} < 1$          |
+| MOS 耐压    | $V_{DSS} \geq 2V_{g,max} \times 1.5$         |
+| 二极管 PIV   | $V_{RRM} \geq 2nV_{g,max} \times 1.5$        |
+| 变压器匝比     | $n = \dfrac{V}{2D_{max}V_{g,min}}$           |
+| 输出电感      | $L = \dfrac{V(1-2D_{min})}{2f_s \Delta i_L}$ |
+| 输出电容      | $C \geq \dfrac{\Delta i_L}{8f_s \Delta V}$   |
+| 磁通摆幅（单方向） | $\Delta B = \dfrac{V_g DT_s}{N_p A_e}$       |
+| CCM 条件    | $L > \dfrac{V(1-2D)}{2f_s \cdot 2I_{O,min}}$ |
