@@ -1,6 +1,6 @@
 # 半桥隔离 Buck 变换器（Half-Bridge Isolated Buck Converter）
 
-> 本笔记遵循 [00-统一规范](00-统一规范.md)。原理图（`拓扑图/Half-bridge transformer-isolated buck converter.png`）为最高依据。
+> 原理图（`拓扑图/Half-bridge transformer-isolated buck converter.png`）为最高依据。
 
 ---
 
@@ -1044,7 +1044,6 @@ A：因为**分压电容串在原边电流的必经之路上**。电容不能通
 
 ## 附：与本文档相关的其他笔记
 
-- [00-统一规范](00-统一规范.md) —— 符号与结构总纲
 - [全桥隔离Buck变换器分析](全桥隔离Buck变换器分析.md) —— 半桥的"完整版"（+2 管，原边电流减半）
 - [推挽隔离Buck变换器分析](推挽隔离Buck变换器分析.md) —— 同为 2 管，但原边幅值 $\pm V_g$ 、无分压电容、偏磁风险高
 - [半桥串联谐振变换器分析](半桥串联谐振变换器分析.md) —— 同一半桥结构，但负载网络换成谐振腔（变频控制）

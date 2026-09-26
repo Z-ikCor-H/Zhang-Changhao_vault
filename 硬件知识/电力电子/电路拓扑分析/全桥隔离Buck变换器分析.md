@@ -1,6 +1,6 @@
 # 全桥隔离 Buck 变换器（Full-Bridge Isolated Buck Converter）
 
-> 本笔记遵循 [00-统一规范](00-统一规范.md)。原理图（`拓扑图/Full-bridge transformer-isolated buck converter.png`）为最高依据。
+> 原理图（`拓扑图/Full-bridge transformer-isolated buck converter.png`）为最高依据。
 
 ---
 
@@ -1107,7 +1107,6 @@ A：半桥的两个分压电容**串联在变压器回路中**，天然阻断直
 
 ## 附：与本文档相关的其他笔记
 
-- [00-统一规范](00-统一规范.md) —— 符号与结构总纲
 - [半桥隔离Buck变换器分析](半桥隔离Buck变换器分析.md) —— 全桥的"减半"版本（省 2 管，但原边电压减半）
 - [推挽隔离Buck变换器分析](推挽隔离Buck变换器分析.md) —— 同为 $\pm V_g$ 激励，但 2 管、 $2V_g$ 应力
 - [全桥隔离Boost变换器分析](全桥隔离Boost变换器分析.md) —— 同一桥臂结构，但电感在输入侧（电流馈电）
