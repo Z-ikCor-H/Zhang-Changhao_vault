@@ -8,6 +8,7 @@
 
 **推挽隔离型 Boost 变换器**（Push-Pull Isolated Boost Converter），属于电流馈电型推挽拓扑。
 
+<img src="拓扑图/Push-pull%20isolated%20boost%20converter.png" width="650">
 ### 1.2 电路结构与宏观工作机理
 
 | 环节 | 功能 |

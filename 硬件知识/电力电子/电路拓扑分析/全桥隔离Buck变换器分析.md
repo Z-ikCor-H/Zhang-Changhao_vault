@@ -8,6 +8,7 @@
 
 **全桥隔离型 DC-DC 变换器**（Full-Bridge Isolated DC-DC Converter），亦称 **隔离型全桥 Buck 变换器** 或 **全桥正激变换器**。
 
+![](拓扑图/Full-bridge%20transformer-isolated%20buck%20converter.png)
 ### 1.2 电路结构与宏观工作机理
 
 完整的功率链路分为四个环节：

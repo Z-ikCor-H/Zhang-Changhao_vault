@@ -8,6 +8,7 @@
 
 **半桥隔离型 DC-DC 变换器**（Half-Bridge Isolated DC-DC Converter），亦称 **半桥正激变换器**。
 
+![](拓扑图/Half-bridge%20transformer-isolated%20buck%20converter.png)
 ### 1.2 电路结构与宏观工作机理
 
 半桥是全桥的"减半"版本：将 $Q_3$ 、 $Q_4$ 替换为两个等值分压电容 $C_1$ 、 $C_2$ ，仅保留 $Q_1$ 、 $Q_2$ 两只开关管。

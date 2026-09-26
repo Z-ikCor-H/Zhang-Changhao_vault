@@ -7,7 +7,7 @@
 ### 1.1 拓扑名称
 
 **推挽式隔离 Buck 变换器**（Push-Pull Isolated Buck Converter），亦称 **推挽正激变换器**。可视为"两个正激变换器的反向并联"或"原边中心抽头的全桥变体"。
-
+<img src="拓扑图/Push-pull%20isolated%20buck%20converter.png" width="573">
 ### 1.2 电路结构与宏观工作机理
 
 | 环节                  | 功能                                         |

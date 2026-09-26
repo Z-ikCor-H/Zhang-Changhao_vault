@@ -6,8 +6,9 @@
 
 ### 1.1 拓扑名称
 
-**全桥隔离型 Boost 变换器**（Full-Bridge Isolated Boost Converter），亦称 **电流馈电型全桥变换器**（Current-Fed Full-Bridge Converter）。
+**全桥隔离型 Boost 变换器**（Full-bridge transformer-isolated boost converter），亦称 **电流馈电型全桥变换器**（Current-Fed Full-Bridge Converter）。
 
+![](拓扑图/Full-bridge%20transformer-isolated%20boost%20converter.png)
 ### 1.2 电路结构与宏观工作机理
 
 | 环节 | 功能 |
